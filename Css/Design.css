@@ -1,0 +1,79 @@
+
+/*SELECTOR*/
+*{
+   font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    
+    width: 100%;
+    height: 60px;
+    background-color: #CCCCCC;
+}
+
+section{
+    width: 1000px;
+    margin: auto;
+}
+.Titulo{
+    color: #0D0D0D;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.parrafo{
+    text-align: justify;
+    font-family: fantasy;
+    
+}
+
+.fila_1{
+    text-align: center;
+    background-color: #D4DBF5;
+    color:black;
+    padding: 15px 0px 0px 0px;
+    font-size: 25px;
+}
+
+.Subtitulo_1{
+    font-size: 20px;
+    color: darkcyan;
+    font-family: serif;
+}
+
+.Subtitulo_2{
+    font-size: 20px;
+    color: #A65899;
+    font-family: serif;
+}
+
+.Subtitulo_3{
+    font-size: 20px;
+    color: darkcyan;
+    font-family: serif;
+}
+
+.Subtitulo_4{
+    font-size: 20px;
+    color: #A65899;
+    font-family: serif;
+}
+
+.tabla{
+    margin: 15px 0px 15px 0px;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: #CCCCCC;
+}
+
+.titulo2{
+    color: #0D0D0D;
+    font-size: 50px;
+    font-family: fantasy;
+    text-align: center;
